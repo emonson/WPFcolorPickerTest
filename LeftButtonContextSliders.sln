@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeftButtonContextSliders", "LeftButtonContextSliders\LeftButtonContextSliders.csproj", "{bb9a0084-64de-4142-97bb-d099108509da}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB9A0084-64DE-4142-97BB-D099108509DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB9A0084-64DE-4142-97BB-D099108509DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB9A0084-64DE-4142-97BB-D099108509DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB9A0084-64DE-4142-97BB-D099108509DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
