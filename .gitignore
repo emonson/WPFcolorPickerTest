@@ -1,0 +1,4 @@
+# Ignore these
+*.suo
+LeftButtonContextSliders/obj/
+LeftButtonContextSliders/bin/
